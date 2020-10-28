@@ -1,1 +1,1 @@
-Simple webserver in pytohn
+Simple webserver in python
